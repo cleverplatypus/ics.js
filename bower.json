@@ -23,7 +23,7 @@
     "demo"
   ],
   "dependencies": {
-    "Blob.js": "Blob.js",
-    "FileSaver": "FileSaver.js"
+    "Blob.js": "https://github.com/cleverplatypus/Blob.js.git",
+    "FileSaver": "https://github.com/cleverplatypus/FileSaver.js.git"
   }
 }
